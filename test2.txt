@@ -2,3 +2,5 @@ prueba2
 cambio a
 
 un cambio desde master.
+
+Otro cambio desde master en Github.
